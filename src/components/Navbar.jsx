@@ -1,6 +1,6 @@
 import React from "react";
 
-import LOGO from "../assets/images/LOGO1.jpg";
+import LOGO from "../assets/images/Logo1.jpg";
 import ProfileInfo from "./Cards/ProfileInfo";
 import { useNavigate } from "react-router-dom";
 import SearchBar from "./input/SearchBar";
